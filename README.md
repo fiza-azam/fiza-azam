@@ -58,11 +58,6 @@ Software Engineer with a Master's in Artificial Intelligence, building 3D and VR
 
 </div>
 
-
-### 📄 Research
-
-3 peer-reviewed papers on sentiment analysis and machine learning for mental health detection on social media — see [Google Scholar](https://scholar.google.com/citations?user=pEfZK30AAAAJ).
-
 ### 🏆 Highlights
 
 - 🥇 Google AI Seekho 2026 — Gold Tier
