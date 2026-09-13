@@ -14,11 +14,11 @@ Software Engineer with a Master's in Artificial Intelligence, building 3D and VR
 
 ### 🚀 What I work on
 
-- **VR & Simulation**: Unreal Engine 5 training simulators and digital twins (fire safety, industrial, military)
-- **Multi-Agent Systems for Creative Work**: automated game asset generation pipelines at rapidassets.ai
-- **AI Systems**: conversational agents, voice AI, and agentic pipelines
-- **Game Development**: Unity & Unreal, solo-shipped and team-led
-- **Generative AI**: diffusion pipelines and creative tooling (ComfyUI, ecosystem tools)
+- **VR & Simulation** - Unreal Engine 5 training simulators and digital twins (fire safety, industrial, military)
+- **Multi-Agent Systems for Creative Work** - automated game asset generation pipelines at rapidassets.ai
+- **AI Systems** - conversational agents, voice AI, and agentic pipelines
+- **Game Development** - Unity & Unreal, solo-shipped and team-led
+- **Generative AI** - diffusion pipelines and creative tooling (ComfyUI, ecosystem tools)
 
 ### 🛠️ Toolkit
 
