@@ -2,8 +2,6 @@
 
 # Hi, I'm Fiza 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MS+in+Artificial+Intelligence;VR%2FXR+Simulation+Developer;Building+Multi-Agent+Creative+Pipelines" alt="Typing SVG" />
-
 </div>
 
 Software Engineer with a Master's in Artificial Intelligence, building 3D and VR simulators for real-world use, and blending game development with AI. Former founding member & team lead at **[rapidassets.ai](https://rapidassets.ai)**, where I worked on automating game asset generation pipelines with multi-agent systems for creative work.
