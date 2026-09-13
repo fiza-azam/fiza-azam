@@ -60,12 +60,6 @@ Software Engineer with a Master's in Artificial Intelligence, building 3D and VR
 
 </div>
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fiza-azam&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-azam&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</div>
 
 ### 📄 Research
 
